@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de JAVA<br>Estou a procurando estagio
+Sou estudante de ADS<br>Estou a procura de um estagio
 
 
 ## 🌐 Socials:
